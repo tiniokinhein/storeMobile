@@ -3,16 +3,50 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
+    "@capacitor/android": "2.4.2",
+    "@capacitor/cli": "^2.4.2",
+    "@capacitor/core": "^2.4.2",
+    "@codetrix-studio/capacitor-google-auth": "^2.1.1",
+    "@ionic/core": "^5.3.4",
+    "@ionic/react": "^5.3.4",
+    "@ionic/react-router": "^5.3.4",
+    "@rdlabo/capacitor-facebook-login": "^2.0.3",
+    "axios": "^0.20.0",
+    "crypto-js": "^4.0.0",
+    "env-cmd": "^10.1.0",
+    "firebase": "^7.22.1",
+    "i18next": "^19.8.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.31",
+    "nanoid": "^3.1.12",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-i18next": "^11.7.3",
+    "react-icons": "^3.11.0",
+    "react-id-swiper": "^4.0.0",
+    "react-loading-skeleton": "^2.1.1",
+    "react-medium-image-zoom": "^4.3.1",
+    "react-modal": "^3.11.2",
+    "react-moment": "^1.0.0",
+    "react-phone-number-input": "^3.1.0",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-select": "^3.1.0",
+    "react-tabs": "^3.1.1",
+    "react-to-print": "^2.10.0",
+    "react-transition-group": "^4.4.1",
+    "redux": "^4.0.5",
+    "redux-form": "^8.3.6",
+    "redux-thunk": "^2.3.0",
+    "shortid": "^2.2.15",
+    "swiper": "^6.3.2",
+    "uuid": "^8.3.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "env-cmd react-scripts start",
+    "build": "env-cmd react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -30,5 +64,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.32.0"
   }
 }

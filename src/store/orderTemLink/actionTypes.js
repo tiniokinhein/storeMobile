@@ -1,0 +1,2 @@
+export const ADD_ORDER_LINK = 'ADD_ORDER_LINK'
+export const REMOVE_ORDER_LINK = 'REMOVE_ORDER_LINK'

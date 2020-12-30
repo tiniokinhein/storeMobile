@@ -1,0 +1,9 @@
+export const PRODUCTS = process.env.REACT_APP_API_PRODUCTS
+export const BRANDS = process.env.REACT_APP_API_BRANDS
+export const CATEGORIES = process.env.REACT_APP_API_CATEGORIES
+export const COLORS = process.env.REACT_APP_API_COLORS
+export const SIZES = process.env.REACT_APP_API_SIZES
+export const SUBCATEGORIES = process.env.REACT_APP_API_SUBCATEGORIES
+export const BANNERS = process.env.REACT_APP_API_BANNERS
+export const ORDERURL = process.env.REACT_APP_API_ORDERS
+export const AGENTS = process.env.REACT_APP_API_USERS

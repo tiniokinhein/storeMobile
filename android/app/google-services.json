@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192092630840",
+    "firebase_url": "https://bagan-store.firebaseio.com",
+    "project_id": "bagan-store",
+    "storage_bucket": "bagan-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192092630840:android:f736a0a5bd36ad22de1bcd",
+        "android_client_info": {
+          "package_name": "com.baganstore.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192092630840-m83r01ptfd86cd8ii4nrufhs7r5j7m67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCLshRrOKcgtMXEsjalK3y5QqzQhz_kdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192092630840-m83r01ptfd86cd8ii4nrufhs7r5j7m67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

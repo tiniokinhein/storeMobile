@@ -1,0 +1,21 @@
+{
+  "appId": "com.baganstore.app",
+  "appName": "BaganStore",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    },
+    "GoogleAuth": {
+      "scopes": ["profile", "email"],
+      "serverClientId": "192092630840-m83r01ptfd86cd8ii4nrufhs7r5j7m67.apps.googleusercontent.com",
+      "forceCodeForRefreshToken" : true
+    }
+  },
+  "cordova": {}
+}

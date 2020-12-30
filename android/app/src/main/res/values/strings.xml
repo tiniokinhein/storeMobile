@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BaganStore</string>
+    <string name="title_activity_main">BaganStore</string>
+    <string name="package_name">com.baganstore.app</string>
+    <string name="custom_url_scheme">com.baganstore.app</string>
+    <string name="server_client_id">192092630840-m83r01ptfd86cd8ii4nrufhs7r5j7m67.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">913082569186996</string>
+    <string name="fb_login_protocol_scheme">fb913082569186996</string>
+
+</resources>

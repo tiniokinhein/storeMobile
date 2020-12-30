@@ -1,0 +1,2 @@
+export const ADD_MYKYAT = 'ADD_MYKYAT'
+export const REMOVE_MYKYAT = 'REMOVE_MYKYAT'

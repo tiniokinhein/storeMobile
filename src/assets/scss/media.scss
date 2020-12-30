@@ -1,0 +1,40 @@
+@media screen and (max-width: 413px) {
+    .off-xs-flex {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .logo-title {
+        font-size: 21px !important;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .open-guide {
+        margin-right: -50%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .col-lg-custom-10 {
+        -ms-flex: 0 0 10%;
+        flex: 0 0 10%;
+        max-width: 10%;
+    }
+
+    .open-guide {
+        margin-right: -50%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .custom-container {
+        max-width: 100%;
+        width: 1200px;
+    }
+
+    .open-guide {
+        margin-right: -600px;
+    }
+}
